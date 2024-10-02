@@ -1,4 +1,6 @@
-# FrontEnd
+# Sign In With Google JavaScript API reference 
+
+This reference page describes the Sign-In JavaScript API. You can use this API to display the One Tap prompt or Sign In With Google button on your web pages.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0.
 
